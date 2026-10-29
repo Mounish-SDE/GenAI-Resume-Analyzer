@@ -58,3 +58,8 @@ A beginner-friendly Streamlit app that compares a resume PDF with a job descript
 - PDF extraction works best with selectable text; scanned PDFs need OCR.
 - AI output can be wrong. Verify all suggestions and never add skills or metrics you cannot substantiate.
 - The app sends resume text to the Gemini API. Review provider privacy terms before using personal documents.
+
+- **PROJECT DEMOS**
+
+- GenAI Resume Analyzer: https://genai-resume-analyzer000.streamlit.app/
+
