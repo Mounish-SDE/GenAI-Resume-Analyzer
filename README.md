@@ -62,4 +62,8 @@ A beginner-friendly Streamlit app that compares a resume PDF with a job descript
 - **PROJECT DEMOS**
 
 - GenAI Resume Analyzer: https://genai-resume-analyzer000.streamlit.app/
+- **SOURCE CODE**
+
+- **GenAI Resume Analyzer:** https://github.com/Mounish-SDE/GenAI-Resume-Analyzer
+  
 
